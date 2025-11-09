@@ -1,6 +1,6 @@
                       
 <p align="center">
-  <a href="https://github.com/grandeemir/Packet-Tracer-Labs.wiki.git">
+  <a href="https://github.com/grandeemir/Packet-Tracer-Labs/wiki">
     <img src="https://img.shields.io/badge/Open%20Wiki-blue?style=for-the-badge&logo=github" alt="Wiki Button"/>
   </a>
 </p>
